@@ -4,6 +4,7 @@ import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
+import Button from "@mui/material/Button";
 
 function Copyright() {
   return (
@@ -42,6 +43,10 @@ function App() {
             <Copyright />
           </Box>
         </Container>
+
+        <Button variant="text">Text</Button>
+        <Button variant="outlined">Outlined</Button>
+        <Button variant="contained">Contained</Button>
       </header>
     </div>
   );
