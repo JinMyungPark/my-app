@@ -2,11 +2,11 @@ import { Metadata } from 'next';
 
 export const metadata = {
   title: {
-    template: 'Dashboard',
-    default: 'Dashboard',
+    template: '데시보드t',
+    default: '데시보드d',
   },
   description: '설명',
-  metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
+  //metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 };
 
 
