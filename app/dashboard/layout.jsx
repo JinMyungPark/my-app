@@ -1,13 +1,10 @@
 import { Metadata } from 'next';
 
 export const metadata = {
-  title: {
-    default: '___root___',
-  },
-  description: '설명',
+  title: '데시보드/ddddddddddddOO',
+  description: '설명/ddddddddOO',
   //metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 };
-
 
 export default function RootLayout({
   children,
