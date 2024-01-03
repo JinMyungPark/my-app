@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata = {
   title: {
-    template: '데시보드t',
+    template: '데시보드t!',
     default: '데시보드d',
   },
   description: '설명',
