@@ -24,7 +24,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+### `참고사이트 https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts`
 In the project directory, you can run:
 
 ### `npm run dev`
